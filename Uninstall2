@@ -1,0 +1,1 @@
+MsiExec.exe /X{A88C722B-E680-44E4-9A9E-236EC4DB36A0} /qn XPSWDPXY=Shelxha6$$ /promptrestart
